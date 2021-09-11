@@ -2171,7 +2171,7 @@ font-family:'ql';
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  border: 10px solid rgba(255 255 255 / 20%);
+  border: 10px solid rgba(255 255 255 / 30%);
   margin-bottom: 20px;
   animation: 6s loaderImage infinite linear;
 }
