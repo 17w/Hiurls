@@ -2168,8 +2168,8 @@ font-family:'ql';
   pointer-events: none;
 }
 #loader img{
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   border-radius: 50%;
   border: 10px solid rgba(255 255 255 / 20%);
   margin-bottom: 20px;
